@@ -1,6 +1,3 @@
-from _typeshed import Self
-
-
 class Marca:
     def __init__(self, nombre):
         self.nombre = nombre
